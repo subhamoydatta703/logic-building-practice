@@ -13,6 +13,7 @@ This repository contains a collection of Java programs designed to solve various
 *   **Question7.java**: **Rectangle Overlap** - Checks if two rectangles defined by their top-left and bottom-right coordinates overlap.
 *   **Question8.java**: **Factorial** - Computes the factorial of a non-negative integer `n`.
 *   **Question9.java**: **Palindrome Number** - Determines if an integer reads the same forward and backward.
+*   **Question10.java**: **Armstrong Number** - Determines if a number is an Armstrong number.
 
 ## How to Run
 
