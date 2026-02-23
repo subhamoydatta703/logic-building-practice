@@ -9,16 +9,26 @@
 public class Question12 {
 
     static int gcd(int n1, int n2) {
-        int max = Integer.MIN_VALUE;
+        int max = 1;
         for (int i = 2; i <= Math.min(n1, n2); i++) {
-            if ((n1 % i == 0) && (n2%i==0)) {
+            if ((n1 % i == 0) && (n2 % i == 0)) {
                 max = Math.max(max, i);
             }
         }
         return max;
     }
 
+    // Euclidean Algorithm for GCD
+
+    static int optGCD(int a, int b) {
+        if (b == 0)
+            return a;
+
+        return optGCD(b, a % b);
+    }
+
     public static void main(String[] args) {
-        System.out.println(gcd(12, 4));
+        // System.out.println(gcd(12, 4));
+        System.out.println(optGCD(60, 36));
     }
 }
