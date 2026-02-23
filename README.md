@@ -14,6 +14,11 @@ This repository contains a collection of Java programs designed to solve various
 *   **Question8.java**: **Factorial** - Computes the factorial of a non-negative integer `n`.
 *   **Question9.java**: **Palindrome Number** - Determines if an integer reads the same forward and backward.
 *   **Question10.java**: **Armstrong Number** - Determines if a number is an Armstrong number.
+*   **Question11.java**: **Cube Sum Pairs** - Counts pairs of integers (a, b) such that $a^3 + b^3 = n$.
+*   **Question12.java**: **Greatest Common Divisor** - Calculates the GCD of two numbers.
+*   **Question13.java**: **Least Common Multiple** - Calculates the LCM of two numbers.
+*   **Question14.java**: **Perfect Number** - Determines if a number is a perfect number.
+*   **Question15.java**: **Fibonacci Number** - Finds the nth Fibonacci number.
 
 ## How to Run
 
