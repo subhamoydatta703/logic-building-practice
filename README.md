@@ -21,6 +21,8 @@ This repository contains a collection of Java programs designed to solve various
 *   **Question15.java**: **Fibonacci Number** - Finds the nth Fibonacci number.
 *   **Question16.java**: **Decimal to Binary** - Converts a non-negative integer into its binary representation.
 *   **Question17.java**: **N-th Triangular Number** - Finds the n-th term in the series 1, 3, 6, 10...
+*   **Question18.java**: **Square Root** - Calculates the floor of the square root of a given number `n`.
+*   **Question19.java**: **Three Divisors** - Counts numbers in the range 1 to `n` that have exactly three divisors.
 
 ## How to Run
 
