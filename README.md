@@ -25,6 +25,7 @@ This repository contains a collection of Java programs designed to solve various
 *   **Question19.java**: **Three Divisors** - Counts numbers in the range 1 to `n` that have exactly three divisors.
 *   **Question20.java**: **Divisible by 11** - Checks if a large number represented as a string is divisible by 11.
 *   **Question21.java**: **Divisible by 13** - Checks if a number represented as a string is divisible by 13.
+*   **Question22.java**: **K-th Digit** - Finds the k-th digit in $a^b$ from the right side.
 
 ## How to Run
 
