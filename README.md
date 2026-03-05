@@ -26,6 +26,9 @@ This repository contains a collection of Java programs designed to solve various
 *   **Question20.java**: **Divisible by 11** - Checks if a large number represented as a string is divisible by 11.
 *   **Question21.java**: **Divisible by 13** - Checks if a number represented as a string is divisible by 13.
 *   **Question22.java**: **K-th Digit** - Finds the k-th digit in $a^b$ from the right side.
+*   **Question23.java**: **Permutation (nPr)** - Computes the number of ways to arrange `r` elements from a set of `n` elements ($nPr$).
+*   **Question24.java**: **Combination (nCr)** - Computes the number of ways to choose `r` elements from a set of `n` distinct elements ($nCr$).
+*   **Question25.java**: **Divisors of a Number** - Finds all distinct divisors of a given positive integer `n`.
 
 ## How to Run
 
