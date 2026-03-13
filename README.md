@@ -29,6 +29,8 @@ This repository contains a collection of Java programs designed to solve various
 *   **Question23.java**: **Permutation (nPr)** - Computes the number of ways to arrange `r` elements from a set of `n` elements ($nPr$).
 *   **Question24.java**: **Combination (nCr)** - Computes the number of ways to choose `r` elements from a set of `n` distinct elements ($nCr$).
 *   **Question25.java**: **Divisors of a Number** - Finds all distinct divisors of a given positive integer `n`.
+*   **Question26.java**: **Unique Prime Factors** - Finds all unique prime factors of a given integer `n`.
+*   **Question27.java**: **Largest Prime Factor** - Finds the largest prime factor of a given positive integer `n`.
 
 ## How to Run
 
