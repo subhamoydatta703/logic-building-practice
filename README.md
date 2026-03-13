@@ -31,6 +31,8 @@ This repository contains a collection of Java programs designed to solve various
 *   **Question25.java**: **Divisors of a Number** - Finds all distinct divisors of a given positive integer `n`.
 *   **Question26.java**: **Unique Prime Factors** - Finds all unique prime factors of a given integer `n`.
 *   **Question27.java**: **Largest Prime Factor** - Finds the largest prime factor of a given positive integer `n`.
+*   **Question28.java**: **Modular Exponentiation** - Computes `(x^n) % M` (remainder when `x` raised to the power `n` is divided by `M`).
+*   **Question29.java**: **Squares in Rectangle** - Counts the number of squares in an `m x n` matrix.
 
 ## How to Run
 
